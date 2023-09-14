@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+typedef struct person
+{
+    int id;
+    char name[20];
+    char varos[20];
+}Person;
+
+int main()
+{
+    Person *p;
+    FILE *f;
+    f = fopen("person.dat","wb");
+    printf("ID: ");
+    scanf("%d",&p->id);
+    printf("Name: ");
+    scanf("%s",p->name);
+    printf("City: ");
+    scanf("%s",&p->varos);
+    fwrite(&p,sizeof(Person),1,f);
+    fclose(f);
+    return 0;
+}
