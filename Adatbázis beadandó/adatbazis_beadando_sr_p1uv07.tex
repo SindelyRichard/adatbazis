@@ -1,0 +1,98 @@
+\documentclass[12pt]{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage[headheight=20pt]{geometry}
+\usepackage{fancyhdr}
+\usepackage[colorlinks,linkcolor=black,%
+urlcolor=blue,citecolor=orange,linktoc=all]{hyperref}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancypagestyle{plain}{%
+\fancyhf{}%
+\fancyhf[CH]{Beadandó}%
+\fancyhf[LH]{Adatbázisrendszerek I}%
+\fancyhf[RH]{Sindely Richárd - P1UV07}%
+\fancyhf[CF]{Miskolci Egyetem}%
+\fancyhf[RF]{\thepage}%
+}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyhf[CH]{Beadandó}
+\fancyhf[LH]{Adatbázisrendszerek I}
+\fancyhf[RH]{Sindely Richárd - P1UV07}
+\fancyhf[CF]{Miskolci Egyetem}
+\fancyhf[RF]{\thepage}
+
+\author{Sindely Richárd-P1UV07}
+\title{Adatbázisrendszerek I. beadandó}
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\section{Bevezetés}
+\label{bev}
+Az adatbázisomhoz a volánbusz rendszere adott inspirációt, amelyben van egy \textbf{Utas} entitás, amely a következő tulajdonságokkal rendelkezik:
+\begin{itemize}
+\item uid (PK - Elsődleges kulcs)
+\item név (Az utas neve)
+\item szülév (Utas születési éve)
+\item személyi ig. szám (Az utas szemlyi ig. száma)
+\item telefonszám (Utas telefonszáma)
+\item kor (Leszármoztatott érték)
+\item Jegy/bérlet típusa
+\end{itemize}
+A következő entitás a \textbf{Busz} ami egy adott buszról tartalmaz információkat.
+\begin{itemize}
+\item bid (PK - Elsődleges kulcs)
+\item Rendszám (Busz rendszáma)
+\item típusszám (Busz típus/gyártási száma)
+\item Márka (Busz gyártója)
+\end{itemize}
+Az \textbf{Utas} és a \textbf{Busz} entitások között van egy kapcsolat ami tartalmaz egy tulajdonságot ami a:
+\begin{itemize}
+\item Ülés (Ülés száma ahova az utas ül)
+\end{itemize}
+Van még egy \textbf{Söfőr} entitás ami a céghez tartozó buszsöfőröket tartja számon, melynek a tulajdonságai a következők:
+\begin{itemize}
+\item sid (PK - Elsődleges kulcs)
+\item név (Söfőr neve)
+\item kezdés éve (Az év amikor a söfőr elkezdett dolgozni a cégnél)
+\item ledolgozott évek száma (Leszármoztatott érték)
+\end{itemize}
+Következő entitás az a \textbf{Járatszám} ami a következő tulajdonságokkal rendelkezik:
+\begin{itemize}
+\item jid (PK - Elsődleges kulcs)
+\item szam (Járatnak a száma)
+\end{itemize}
+A \textbf{Megállók} entitás a következő tulajdonságokkal bír:
+\begin{itemize}
+\item mid (PK - Elsődleges kulcs)
+\item koordináta (Megálló helyzetének koordinátája)
+\item név (Megálló neve)
+\end{itemize}
+A \textbf{Járatszám} és a \textbf{Megállók} entitások között van egy kapcsolat ami kettő tulajdonságot is tartalmaz:
+\begin{itemize}
+\item Tervezett indulás
+\item Tervezett érkezés
+\end{itemize}
+Végül a \textbf{Települések} entitás tartalmazza a települések tulajdonságait amelyek a következők:
+\begin{itemize}
+\item tid (PK - Elsődleges kulcs)
+\item irányítószám (Települések irányítószáma)
+\item név (Települések neve)
+\end{itemize}
+\newpage
+\section{ER diagram}
+Előzőleg bemutatott entitások, tulajdonságok ER diagrammja:\\
+\\
+\includegraphics[height=15cm,width=15cm]{D:/Uni/Tex/Adatbázis beadandó/er.png}
+\newpage
+\section{RS diagram}
+Bevezetésben bemutatott entitások, tulajdonságok RS diagramja:\\
+\\
+\includegraphics[height=10cm,width=15cm]{D:/Uni/Tex/Adatbázis beadandó/rs.png}
+\end{document}

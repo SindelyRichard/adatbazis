@@ -1,0 +1,432 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.15)  18 OCT 2023 13:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./adatbazis_beadando_sr_p1uv07.tex
+(adatbazis_beadando_sr_p1uv07.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/08/29 v3.93 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count195
+\c@footnote@ch=\count196
+))
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babel-ma
+gyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen144
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count197
+\enitdp@description=\count198
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks19
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.st
+y
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekey
+s.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.st
+y
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitles
+tring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count268
+) (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count273
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen154
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.st
+y
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring ON on input line 6069.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+ (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilech
+eck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecoun
+ter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip60
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
+.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box52
+) (adatbazis_beadando_sr_p1uv07.aux)
+\openout1 = `adatbazis_beadando_sr_p1uv07.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen157
+\scratchbox=\box53
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen158
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-21.87262pt
+* \headheight=20.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 31.
+
+(adatbazis_beadando_sr_p1uv07.out) (adatbazis_beadando_sr_p1uv07.out)
+\@outlinefile=\write3
+\openout3 = `adatbazis_beadando_sr_p1uv07.out'.
+
+
+(C:\Users\SR\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+ [1{C:/Users/SR/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+(adatbazis_beadando_sr_p1uv07.toc)
+\tf@toc=\write4
+\openout4 = `adatbazis_beadando_sr_p1uv07.toc'.
+
+ [2] [3] [4]
+<D:/Uni/Tex/Adatbázis beadandó/er.png, id=45, 5155.26pt x 3417.76875pt>
+File: D:/Uni/Tex/Adatbázis beadandó/er.png Graphic file (type png)
+<use D:/Uni/Tex/Adatbázis beadandó/er.png>
+Package pdftex.def Info: D:/Uni/Tex/Adatbázis beadandó/er.png  used on input 
+line 92.
+(pdftex.def)             Requested size: 426.74586pt x 426.75069pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
+
+ []
+
+[5 <D:/Uni/Tex/Adatbázis beadandó/er.png>]
+<D:/Uni/Tex/Adatbázis beadandó/rs.png, id=52, 2280.52pt x 1545.775pt>
+File: D:/Uni/Tex/Adatbázis beadandó/rs.png Graphic file (type png)
+<use D:/Uni/Tex/Adatbázis beadandó/rs.png>
+Package pdftex.def Info: D:/Uni/Tex/Adatbázis beadandó/rs.png  used on input 
+line 97.
+(pdftex.def)             Requested size: 426.7613pt x 284.52512pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
+
+ []
+
+[6 <D:/Uni/Tex/Adatbázis beadandó/rs.png>] (adatbazis_beadando_sr_p1uv07.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+Package rerunfilecheck Info: File `adatbazis_beadando_sr_p1uv07.out' has not ch
+anged.
+(rerunfilecheck)             Checksum: 0984209497CE8AA4EAE1579A0353A326;283.
+ ) 
+Here is how much of TeX's memory you used:
+ 11404 strings out of 475248
+ 187129 string characters out of 5759229
+ 1926801 words of memory out of 5000000
+ 32798 multiletter control sequences out of 15000+600000
+ 564242 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,283b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm120
+0.pk> <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1200.pk> <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1728.pk> <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm1440.pk> <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecrm2074.pk> <C:\Users\SR\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm1200.pk>
+Output written on adatbazis_beadando_sr_p1uv07.pdf (6 pages, 893578 bytes).
+PDF statistics:
+ 249 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 35 words of extra memory for PDF output out of 10000 (max. 10000000)
+
